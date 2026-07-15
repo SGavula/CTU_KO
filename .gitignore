@@ -1,3 +1,6 @@
+# Python virtual environment
+venv_ko
+
 # Python cache and compiled files
 __pycache__/
 *.py[cod]
@@ -7,3 +10,9 @@ __pycache__/
 
 # Zip files
 *.zip
+
+# Testing gurobi
+testing_gurobi
+
+# Testing assignment
+testing_assignment
